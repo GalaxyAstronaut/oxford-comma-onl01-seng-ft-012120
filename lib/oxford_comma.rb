@@ -1,4 +1,3 @@
-require_relative "../lib/oxford_comma.rb"
 
 def oxford_comma(array)
 
