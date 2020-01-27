@@ -1,3 +1,5 @@
+require_relative "../lib/oxford_comma.rb"
+
 def oxford_comma(array)
 
 if array.length == 2 # checks to see if array has 2 elements
